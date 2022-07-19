@@ -16,4 +16,4 @@ else
 {
      max = b;
 }
-Console.WriteLine(max);
+Console.WriteLine("Самое большее число   " + max);
